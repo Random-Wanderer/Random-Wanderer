@@ -1,4 +1,4 @@
-<h1 align="center">A data analyst</h3>
+<h1 align="center">Data analyst</h3>
 
 
 <p align="left">
